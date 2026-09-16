@@ -37,5 +37,5 @@ Over 77 million individuals in India suffer from diabetes, yet rural Community H
 ### Installation
 1. Clone the stable release repository:
    ```bash
-   git clone [https://github.com/Heyarunav/RetinaGuard-AI.git](https://github.com/Heyarunav/RetinaGuard-AI.git)
-   cd RetinaGuard-AI
+   git clone [https://github.com/Heyarunav/RetinaGuard-AI.git](https://github.com/Heyarunav/Re
+cd RetinaGuard-AI
