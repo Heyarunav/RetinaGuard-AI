@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/Release-v1.0--stable--ui-brightgreen.svg)](https://github.com/Heyarunav/RetinaGuard-AI/releases)
 [![Clinical Report](https://img.shields.io/badge/Whitepaper-Clinical%20Report%20(PDF)-red.svg)](docs/RetinaGuard_Clinical_Architecture_Report.pdf)
-[![Video Demo](https://img.shields.io/badge/Demo-Video%20Walkthrough-critical.svg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Video Demo](https://img.shields.io/badge/Demo-Video%20Walkthrough-critical.svg)](https://www.youtube.com/watch?v=p73fuM1iXHE)
 
 > 📄 **[Click Here to Read the Full Clinical & SaMD Architecture Report (PDF)](docs/RetinaGuard_Clinical_Architecture_Report.pdf)**  
 > 🎬 **[Click Here to Watch the Working Video Demonstration](https://www.youtube.com/watch?v=p73fuM1iXHE)**[cite: 3]
