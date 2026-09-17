@@ -11,7 +11,7 @@
 [![Video Demo](https://img.shields.io/badge/Demo-Video%20Walkthrough-critical.svg)](https://youtu.be/YOUR_VIDEO_ID)
 
 > 📄 **[Click Here to Read the Full Clinical & SaMD Architecture Report (PDF)](docs/RetinaGuard_Clinical_Architecture_Report.pdf)**  
-> 🎬 **[Click Here to Watch the Working Video Demonstration](https://youtu.be/p73fuM1iXHE)**[cite: 3]
+> 🎬 **[Click Here to Watch the Working Video Demonstration](https://www.youtube.com/watch?v=p73fuM1iXHE)**[cite: 3]
 
 ---
 
