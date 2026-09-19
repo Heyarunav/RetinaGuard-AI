@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-MATLAB%20%7C%20ONNX-orange.svg)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/Release-v1.0--stable--ui-brightgreen.svg)](https://github.com/Heyarunav/RetinaGuard-AI/releases)
-(https://img.shields.io/badge/Whitepaper-Clinical_Report_(PDF)-red)](https://heyarunav.github.io/RetinaGuard-AI/RetinaGuard_Clinical_Architecture_Report.pdf)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Clinical_Report_(PDF)-red)](https://heyarunav.github.io/RetinaGuard-AI/RetinaGuard_Clinical_Architecture_Report.pdf)
 [![Video Demo](https://img.shields.io/badge/Demo-Video%20Walkthrough-critical.svg)](https://www.youtube.com/watch?v=p73fuM1iXHE)
 
 >  **<a href="https://heyarunav.github.io/RetinaGuard-AI/RetinaGuard_Clinical_Architecture_Report.pdf" target="_blank">📄 Click Here to Read the Full Clinical & SaMD Architecture Report (PDF)</a>**  
