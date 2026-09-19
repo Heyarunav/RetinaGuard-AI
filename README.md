@@ -10,7 +10,7 @@
 [![Clinical Report](https://img.shields.io/badge/Whitepaper-Clinical%20Report%20(PDF)-red.svg)](./RetinaGuard_Clinical_Architecture_Report.pdf)
 [![Video Demo](https://img.shields.io/badge/Demo-Video%20Walkthrough-critical.svg)](https://www.youtube.com/watch?v=p73fuM1iXHE)
 
-> 📄 **[Click Here to Read the Full Clinical & SaMD Architecture Report (PDF)](./RetinaGuard_Clinical_Architecture_Report.pdf)**  
+> 📄 **📄 [Click Here to Read the Full Clinical & SaMD Architecture Report (PDF)](https://raw.githubusercontent.com/Heyarunav/RetinaGuard-AI/main/RetinaGuard_Clinical_Architecture_Report.pdf)**  
 > 🎬 **[Click Here to Watch the Working Video Demonstration](https://www.youtube.com/watch?v=p73fuM1iXHE)**[cite: 3]
 
 ---
